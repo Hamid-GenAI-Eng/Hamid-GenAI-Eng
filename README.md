@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hamid%20Saifullah&fontSize=52&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Tech%20Lead%20%7C%20Builder&descSize=20&textAlignY=35&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hamid%20Saifullah&fontSize=52&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Tech%20Lead%20%7C%20Builder&descSize=20&descAlignY=75&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=I+build+AI+systems+that+ship.;Not+prototypes.+Not+demos.+Products.;Tech+Lead+%40+Code+Envision+Technologies;Turning+hard+problems+into+working+software." alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 I'm **Hamid Saifullah** — a CS student finishing his degree while running the tech side of a software company. That's not a flex, it's just context for how I work: fast, structured, and with zero tolerance for things that don't ship.
 
-At **[Code Envision Technologies](https://github.com/Hamid-GenAI-Eng)**, I lead the architecture, AI systems, and delivery of products that real clients pay for. From a bilingual AI legal platform processing thousands of Pakistani court judgements, to enterprise ERP systems for manufacturing factories — I've learned that the gap between a good idea and a good product is almost always an engineering problem.
+At **[Code Envision Technologies](https://www.codeenvisiontechnologies.com/)**, I lead the architecture, AI systems, and delivery of products that real clients pay for. From a bilingual AI legal platform processing thousands of Pakistani court judgements, to enterprise ERP systems for manufacturing factories — I've learned that the gap between a good idea and a good product is almost always an engineering problem.
 
 I don't do side projects that live in branches forever. Everything I build goes to production.
 
