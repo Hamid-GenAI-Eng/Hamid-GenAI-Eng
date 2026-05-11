@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hamid%20Saifullah&fontSize=52&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Tech%20Lead%20%7C%20Builder&descSize=20&descAlignY=75&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hamid%20Saifullah&fontSize=52&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Tech%20Lead%20%7C%20Builder&descSize=20&textAlignY=35&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=I+build+AI+systems+that+ship.;Not+prototypes.+Not+demos.+Products.;Tech+Lead+%40+Code+Envision+Technologies;Turning+hard+problems+into+working+software." alt="Typing SVG" />
